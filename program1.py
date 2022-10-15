@@ -1,5 +1,5 @@
-x = input('enter the vale of x')
-y = input('enter the vale of y')
+x = input('enter the vale of y')
+y = input('enter the vale of x')
 temp = x
 x = y
 y = temp
